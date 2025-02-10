@@ -1,5 +1,5 @@
 {
-  "name": "my-turborepo",
+  "name": "bestrong-monorepo",
   "private": true,
   "scripts": {
     "build": "turbo build",
